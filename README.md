@@ -136,7 +136,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🌐 Connect with Us
 
 Have questions or need help? Join our community:
-- Discord: [Webnestify Community](https://discord.gg/JNqn5rHf)
-- Email: [support@webnestify.com](mailto:support@webnestify.com)
+- Discord: [Webnestify Community](https://wnstify.cc/discord)
+- Email: [contact@webnestify.cloud](mailto:contact@webnestify.cloud)
 
 ---
