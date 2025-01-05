@@ -138,6 +138,5 @@ This project is licensed under the [MIT License](LICENSE).
 Have questions or need help? Join our community:
 - Discord: [Webnestify Community](https://wnstify.cc/discord)
 - Email: [contact@webnestify.cloud](mailto:contact@webnestify.cloud)
- 
 ---
  
